@@ -11,6 +11,7 @@
   <img align="center" alt="nav-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nav-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="nav-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="nav-zoro" height="140" width="130" src="https://c.tenor.com/re-mTjTLwIoAAAAM/zoro.gif">
 </div>
   
 ##
