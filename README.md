@@ -1,4 +1,6 @@
-## Iae, eu sou o Navega
+## Oi, eu sou o Navega
+- Atualmente faço faculdade de **Análise e Desenvolvimento de Sistemas** na **Unigranrio**
+- Desenvolvendo desde 2021
 
 <div align="center">
   <a href="https://github.com/navxga">
