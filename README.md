@@ -1,4 +1,4 @@
-## Oi, eu sou o Navega
+## Oi, eu sou o Lyan Navega
 - Atualmente faço faculdade de **Análise e Desenvolvimento de Sistemas** na **Unigranrio**
 - Desenvolvendo desde 2021
 
