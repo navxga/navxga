@@ -1,5 +1,5 @@
 ## Oi, eu sou o Lyan Navega
-- Atualmente faço faculdade de **Análise e Desenvolvimento de Sistemas** na **Unigranrio**
+- Atualmente faço faculdade de **Análise e Desenvolvimento de Sistemas**
 - Desenvolvendo desde 2021
 
 <div align="center">
