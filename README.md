@@ -1,4 +1,6 @@
-### Oi, eu sou o Lyan Navega
+### Hi, I'm Lyan Navega
+- Systems Analysis and Development
+- Developer since 2021
 
 <div align="center">
   <a href="https://github.com/navxga">
