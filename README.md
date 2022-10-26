@@ -1,6 +1,6 @@
 ### Hi, I'm Lyan Navega
 - Systems Analysis and Development
-- Developer since 2021
+- Developer since 2020
 
 <div align="center">
   <a href="https://github.com/navxga">
