@@ -1,5 +1,5 @@
 ### Hi, I'm Lyan Navega
-📚 A Math enthusiast and Analysis and Systems Development student
+📚 A Programming enthusiast and Analysis and Systems Development student
 
 💼 Currently, I work with RPA (Robotic Process Automation) at Impacta Lawtech
 
