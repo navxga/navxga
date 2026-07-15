@@ -12,7 +12,7 @@
 
 - 💼 **Developer at [FGV (Fundação Getúlio Vargas)](https://portal.fgv.br/)** — building and integrating internal academic systems (ASP.NET Zero, Lyceum ERP, Salesforce) 
 - 🚀 **Founder of Lynav Innovations** — where I build **[Stockie](https://stockie.com.br)**: a multi-tenant SaaS ERP for Brazilian small and medium retailers
-- 🤖 **4 years of RPA & legal automation** before that — architected a modular RPA platform integrating PJe, EPROC, TRT and Procon  
+- 🤖 **4 years of RPA & legal automation at [iPrazos](https://www.iprazos.adv.br)** — I built two products that still generate revenue for the company today: one for handling **Procon** consumer complaints, and **SIGA**, for court hearings. Both run on a modular RPA platform I architected on top of web scraping across Brazil's electronic judicial systems   
 - 🎓 Systems Analysis and Development · coding since 2020  
 - 🧠 Into DDD, Clean Architecture, SOLID, design patterns — and shipping things that actually run in production
 
