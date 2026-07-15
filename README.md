@@ -10,14 +10,11 @@
 
 <img align="right" alt="nav-zoro" height="150" style="border-radius:50px;" src="https://c.tenor.com/re-mTjTLwIoAAAAM/zoro.gif">
 
-💼 **Developer at **[FGV (Fundação Getúlio Vargas)](https://portal.fgv.br/)** — building and integrating internal academic systems (ASP.NET Zero, Lyceum ERP, Salesforce)  
-🚀 **Founder of Lynav Innovations** — where I build:
-  - **[Stockie](https://stockie.com.br)**: a multi-tenant SaaS ERP for Brazilian small and medium retailers
-  - **[Katle](https://katle.pro)**: a gamer plataform
-
-🤖 **4 years of RPA & legal automation** before that — architected a modular RPA platform integrating PJe, EPROC, TRT and Procon  
-🎓 Systems Analysis and Development · coding since 2020  
-🧠 Into DDD, Clean Architecture, SOLID, design patterns — and shipping things that actually run in production
+- 💼 **Developer at **[FGV (Fundação Getúlio Vargas)](https://portal.fgv.br/)** — building and integrating internal academic systems (ASP.NET Zero, Lyceum ERP, Salesforce) 
+- 🚀 **Founder of Lynav Innovations** — where I build **[Stockie](https://stockie.com.br)**: a multi-tenant SaaS ERP for Brazilian small and medium retailers
+- 🤖 **4 years of RPA & legal automation** before that — architected a modular RPA platform integrating PJe, EPROC, TRT and Procon  
+- 🎓 Systems Analysis and Development · coding since 2020  
+- 🧠 Into DDD, Clean Architecture, SOLID, design patterns — and shipping things that actually run in production
 
 ##
 
